@@ -11,7 +11,7 @@ html {
 
 body {
   background: #FDFDFD;
-  color: #242525;
+  color: #a9a6a6;
   font-family: 'Calibri', sans-serif;
   /*font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;*/
 }
@@ -529,7 +529,7 @@ nav .fa-solid {
   }
 
   nav ul {
-    background: #E0144C;
+    background: #6D6D6D;
     position: fixed;
     top: 0;
     right: -200px;
